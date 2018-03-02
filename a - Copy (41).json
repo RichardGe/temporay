@@ -1,0 +1,26 @@
+
+
+
+
+{
+
+	
+	
+	"description" : "a shiny gold metal material",
+	
+	"keywords" : [ "metal", "gold" ],
+	
+	
+	
+	
+
+    "dependencies": [  
+		{ "file" : "material01.json"           } , 
+		{ "file" : "../imagesA/image01.png"      }  
+		]
+
+
+}
+
+
+
